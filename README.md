@@ -1,0 +1,1 @@
+Uses DFS(depth first search) in solving a X by X number puzzle.
